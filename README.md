@@ -8,19 +8,10 @@ Term: Fall 2016
 
 + [Data link](https://courseworks2.columbia.edu/courses/11849/files/folder/Project_Files?preview=763391)-(**coursework login required**)
 + [Data description](doc/readme.html)
-+ Contributor's name:
-+ Projec title: Lorem ipsum dolor sit amet
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Contributor's name: Jiani Tian
++ Projec title: Can we know what the song is going to say when we only listen the melody?
++ Project summary: In this project, I try to find the associations between the lyrics and the melody between a song. And when we listen a new song, we may infer the topics and lyrics of the this song.
++ I mainly tried two methods to do this.
+
+Firstly, based on the 
 	
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
-
-```
-proj/
-├── lib/
-├── data/
-├── doc/
-├── figs/
-└── output/
-```
-
-Please see each subfolder for a README file.
