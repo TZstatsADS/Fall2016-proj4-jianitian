@@ -1,5 +1,4 @@
 # Project: Words 4 Music
 ### Data folder
 
-The data directory contains data used in the analysis. This is treated as read only; in paricular the R/python files are never allowed to write to the files in here. Depending on the project, these might be csv files, a database, and the directory itself may have subdirectories.
-
+The data directory contains data I saved during the programming if the cycle time is long. This is treated as read only, the format of the data is RData
