@@ -1,5 +1,5 @@
 # Project: Words 4 Music
 ### Output folder
 
-The output directory contains analysis output, processed datasets, logs, or other processed things.
+This is the final output csv file about the inference of the test songs' lyrics ranking.
 
